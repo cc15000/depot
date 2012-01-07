@@ -159,3 +159,8 @@
   display: inline;
 }
 /* END:inline */
+
+.locale {
+   float:right;
+   padding-top: 0.2em;
+}
